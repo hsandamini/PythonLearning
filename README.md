@@ -17,4 +17,4 @@ I created this space to keep my learning organized in one neat place. I also sha
 
 ## 👤 About Me
 
-* **Hiruni Sandamini** – [My GitHub Profile](https://github.com)
+* **Hiruni Sandamini** – ([https://github.com](https://github.com/hsandamini))
