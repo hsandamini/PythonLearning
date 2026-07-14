@@ -16,7 +16,7 @@ I created this space to keep my learning organized in one neat place. I also sha
 * **Jupyter Notebook** – The tool used to write code and notes together clearly.
 
 ## 🚀 Join the Journey!
-If you are also looking to learn Python and want to follow along, you can check out [the full course on Udemy here](https://udemy.com). Happy coding!
+If you are also looking to learn Python and want to follow along, you can check out [the full course on Udemy here](https://www.udemy.com/share/103QPk3@0upyNmx-1Hs48YYZsjgt0vvtxfS3WXpf3DK_vyYhYoBKGtyrRoOH0d8Ko_XyBsgimQ==/). Happy coding!
 
 ## 👤 About Me
 
