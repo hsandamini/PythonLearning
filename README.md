@@ -15,6 +15,9 @@ I created this space to keep my learning organized in one neat place. I also sha
 * **Python 3** – The programming language used.
 * **Jupyter Notebook** – The tool used to write code and notes together clearly.
 
+## 🚀 Join the Journey!
+If you are also looking to learn Python and want to follow along, you can check out [the full course on Udemy here](https://udemy.com). Happy coding!
+
 ## 👤 About Me
 
 * **Hiruni Sandamini** – ([https://github.com](https://github.com/hsandamini))
